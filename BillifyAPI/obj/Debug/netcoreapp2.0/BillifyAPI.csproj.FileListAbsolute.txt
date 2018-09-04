@@ -1,0 +1,11 @@
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\bin\Debug\netcoreapp2.0\BillifyAPI.deps.json
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\bin\Debug\netcoreapp2.0\BillifyAPI.runtimeconfig.json
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\bin\Debug\netcoreapp2.0\BillifyAPI.runtimeconfig.dev.json
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\bin\Debug\netcoreapp2.0\BillifyAPI.dll
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\obj\Debug\netcoreapp2.0\BillifyAPI.csprojResolveAssemblyReference.cache
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\obj\Debug\netcoreapp2.0\BillifyAPI.csproj.CoreCompileInputs.cache
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\obj\Debug\netcoreapp2.0\BillifyAPI.AssemblyInfoInputs.cache
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\obj\Debug\netcoreapp2.0\BillifyAPI.AssemblyInfo.cs
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\bin\Debug\netcoreapp2.0\BillifyAPI.pdb
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\obj\Debug\netcoreapp2.0\BillifyAPI.dll
+c:\users\zak\source\projects\BillifyAPI\BillifyAPI\obj\Debug\netcoreapp2.0\BillifyAPI.pdb
